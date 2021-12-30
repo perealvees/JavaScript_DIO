@@ -1,0 +1,32 @@
+Usando na pagina web: Atalho ctrl+shift+i
+NodeJs - para auxiliar alteração do site 
+
+No terminal(verificar qual pasta esta salvo o projeto)
+node.teste.js
+- - - 
+
+* Estrutura Básica e Dom
+
+ Estrutura inicial: HTML5
+Arquitetura de pastas = organização 
+Pasta Assets: ferramentas como arquivos em geral
+Arquivos: CSS e Js
+
+Dom(Document Object Model: são os elementos que contem na página)
+
+Na pagina html, chamando o inspecionar use o: document.GetElementBytagName
+Mudar cor do elemento: heanding1.style.color='red'
+
+- - - - - 
+
+
+
+
+
+
+
+
+
+
+
+
