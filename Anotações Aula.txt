@@ -19,6 +19,26 @@ Mudar cor do elemento: heanding1.style.color='red'
 
 - - - - - 
 
+JS auto nivel (linguagem humana) e é a mais ultilizada do momento de desenvolvimentoweb
+
+- - - - 
+
+OPERADORES ARITMÉTICOS
+
+=
++=
+*=
+/=
+
+Camel case = são usadas em funções e variaves
+
+
+
+
+
+
+
+
 
 
 
