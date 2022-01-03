@@ -65,9 +65,15 @@ array.push() adiciona
 array.pop() retira ultimo
 array.shift() retira primeiro
 
-Obejetos
+- - - - - 
 
-let obj = {}
+FUNÇÕES
+
+
+
+
+
+
 
 
 
