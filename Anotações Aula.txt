@@ -32,6 +32,60 @@ OPERADORES ARITMÉTICOS
 
 Camel case = são usadas em funções e variaves
 
+- - - - 
+
+Tipos e Variáveis
+
+String:
+
+New String com S maiusculo torna se um OBJETO;
+Concatenar:  nome.concat(nome);
+Concatenado.lenght: contar os caracteres;
+Para concatenar com espaço entre as palavras: concatenado = nome + " " + sobrenome;
+Para achar o indice de lista usamos o [1];
+O indice, sempre começa do 0, o tamanho da letra pelo 1;
+Quebra de linha: concatenado = nome + "\n" + sobrenome
+ou
+concatenado: '${nome} ${sobrenome}'
+separar letras: nome.split("")
+ver se existe a letra: frases.incluides(nome)
+
+Numbers
+declarar numero: let num = 100 (não usa aspas para declarar)
+
+Boolean
+True or Flase
+valida condicionais
+let validation = 3 == 0 
+
+Array (vetores)
+São as listas iteraveis do elemento
+let array = []
+array.push() adiciona
+array.pop() retira ultimo
+array.shift() retira primeiro
+
+Obejetos
+
+let obj = {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
