@@ -1,3 +1,31 @@
+JS  
+
+Já é interpretada, não precisa compilar
+Protótipo = conjunto de funções
+Client-side - Interação com cliente
+Segue padrão ECMAScript = padrão para linguagens
+
+Aplicações JS:
+Web, Mobile, Smartwatches, games, Internet of thing, API's
+
+- - - - 
+
+Comentar código: usando // ou Começando com /* */
+
+Quando for usar contante (const), lembrar de deixar a varaivel em letra maiúscula
+
+Função:
+function soma (){
+}
+
+A função RETURN você precisa manipular o resultado da função em outra função
+ja o console.log, é só pra ver o valor que esta rodando
+
+
+- - - - 
+
+USANDO O CONSOLE
+
 Usando na pagina web: Atalho ctrl+shift+i
 NodeJs - para auxiliar alteração do site 
 
