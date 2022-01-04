@@ -97,10 +97,43 @@ array.shift() retira primeiro
 
 FUNÇÕES
 
+Tipo de Função:
+Variaveis dentro da função, podem ser ultilizados dentro dela
+function nome(parametro) {
+ //blablabla
+}
 
 
 
+Quando invocamos o "return" a função deve ser executada, deixa de ser executada e tras um valor
 
+function nome(parametro) {
+ //blablabla
+  return; // valor do retorno
+}
+
+
+
+Função anonima:
+
+uma variavel pode armazenar uma função
+const soma = function (a, b) {
+}
+
+soma (1, 2) //3
+soma (5. 4) //9
+
+
+Função autoinvocavel:
+Uma função invocada entre parenteses, seguida por outro parenteses, que representa sua chamada
+(
+function() {
+	let name = "DIO"
+	return name;
+ }
+)();
+
+//DIO
 
 
 
