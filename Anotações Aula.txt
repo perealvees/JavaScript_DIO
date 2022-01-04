@@ -126,6 +126,7 @@ soma (5. 4) //9
 
 Função autoinvocavel:
 Uma função invocada entre parenteses, seguida por outro parenteses, que representa sua chamada
+pode ter 2 parametros
 (
 function() {
 	let name = "DIO"
@@ -136,14 +137,76 @@ function() {
 //DIO
 
 
+Fução Callbacks
+maior controle da ordem de chamada
+
+- - - - 
+
+ARRAYS
+
+Spread: uma forma de trabalhar separdamente com os elementos
+O que era parte de uma array, se torna elemento independente
+
+function sum(x, y, z){
+returnx + y + z;
+}
+
+const numbers = [1,2,3];
+console.log(sum(...numbers));
+
+Rest: Combina os argumentos em uma array
+O que era um elemento independente se torna parte da array
+
+function confereTamanho(...arg){
+	console.log(args.length)
+}
+confereTamanho()
+confereTamanho(1, 2)
+confereTamanho(1. 2 .3)
+
+Objects
+Entre chaves {}, podemos filtrar apenas os dados que nos interessa em um objeto
 
 
+IF/ELSE
+
+function numeroPositivo(num) {
+	let resultado;
+
+if (num <0) {
+	result = false;
+} else {
+	resultado = true;
+}
+return resultado;
+}
 
 
+SWITCH/CASE
+Equivale a uma comparação de tipo e valor (===)
+sempre precisa de um valor default
+ideal para comparar muitos valores
 
+function getAnimal(id) {
+	switch(id) {
+case 1;
+return "cão";
+case 2:
+return "gato"
+case 3:
+return "passaro"
+default:
+return "peixe"
 
+}
+}
 
+getAnimal(1) // cão
+getAnimal(4) // peixe
+getAnimal() // peixe
 
+FOR
+Loop dentro de elementos iteraveis (arrays, strings)
 
 
 
