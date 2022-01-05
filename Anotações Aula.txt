@@ -208,10 +208,22 @@ getAnimal() // peixe
 FOR
 Loop dentro de elementos iteraveis (arrays, strings)
 
+- - - - 
 
+THIS
+A palavra this é uma referencia de contexto
+refere-se ao objeto pessoa e seu valor pode mudar de acordo com o lugar no código onde foi chamada
 
+BIND
+Clona a estrutura da função onde é chamada e aplica o valor do objeto passad como parametro
 
+- - - - 
 
+MAP
+
+Tem caracteristicas
+ - uma coleção de arrays no formato [chave, valor];
+ - pode ser iterado por um loop for...of
 
 
 
