@@ -226,8 +226,8 @@ Tem caracteristicas
  - pode ser iterado por um loop for...of
 
 FILTER
+Cria uma nova array com as informações fornecidas e filtrar
 
-o 
 
 
 
