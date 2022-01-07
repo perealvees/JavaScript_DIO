@@ -225,6 +225,10 @@ Tem caracteristicas
  - uma coleção de arrays no formato [chave, valor];
  - pode ser iterado por um loop for...of
 
+FILTER
+
+o 
+
 
 
 
