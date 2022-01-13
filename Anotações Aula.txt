@@ -228,6 +228,40 @@ Tem caracteristicas
 FILTER
 Cria uma nova array com as informações fornecidas e filtrar
 
+- - - - 
+
+TRATANDO ERROS JAVASCRIPT
+
+ECMAScript
+
+Erros que ocorrem em tempo da execução
+composta por: mensagem, nome, linha, call stack
+
+DOMException
+Erros relacionados ao DOM (Document Object Model)
+
+
+TRHOW E RETURN
+
+TRHOW ver se é palindromo
+
+
+- - - -
+
+ASSINCRONIDADE
+
+Assincrono: que não ocorre ou não se efetiva ao mesmo tempo
+
+Promisse: Objeto de processamento assincrono, pode ser resolvida ou rejeitada
+Tem 3 estados: Pending, fulfilled e rejeitado
+await (caso seja resolvida)
+Funções assincronas precisam de duas palavras chaves; Async e await
+
+- - - - 
+
+APIS
+fetch retorna promise
+
 
 
 
