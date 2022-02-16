@@ -226,7 +226,10 @@ Tem caracteristicas
  - pode ser iterado por um loop for...of
 
 FILTER
-Cria uma nova array com as informações fornecidas e filtrar
+Cria uma nova array com as informações fornecidas e filtrar, não modificica a array original
+temque usar o item.INCLUDES para incluir o item na nova lista
+
+
 
 - - - - 
 
@@ -261,6 +264,21 @@ Funções assincronas precisam de duas palavras chaves; Async e await
 
 APIS
 fetch retorna promise
+
+- - - -
+
+MAP
+
+
+Quando um conjunto passa por uma operação e se torna outro conjunto
+MAP não altera o array original, apenas cria uma nova array
+Qual a diferença do foreach e map: valor de retorno
+
+- - - -
+
+REDUCE
+
+Ele não retorna outra array, mas sim executa uma ação e retorna um valor unico
 
 
 
