@@ -280,7 +280,10 @@ REDUCE
 
 Ele não retorna outra array, mas sim executa uma ação e retorna um valor unico
 
+- - - -
 
+frameworks principais: (ferramentas ageis para JS)
+VueJS, Angular, React, Jquery
 
 
 
