@@ -58,7 +58,7 @@ OPERADORES ARITMÉTICOS
 *=
 /=
 
-Camel case = são usadas em funções e variaves
+camelCase = são usadas em funções e variaves
 
 - - - - 
 
@@ -285,6 +285,26 @@ Ele não retorna outra array, mas sim executa uma ação e retorna um valor unic
 frameworks principais: (ferramentas ageis para JS)
 VueJS, Angular, React, Jquery
 
+- - - - -
+var:
+escopo global e local, pode ter valor alterado. Se não tiver valor incial é tratada como null
+
+let:
+escopo local de bloco, pode ter valor alterado, Se não tiver valor incial é tratada como null
+
+const:
+escopo local do bloco, somente leitura, o valor inicial é obrigatório no inicio
+- - - - 
+Array = lista, matriz ou variavel
+O indice sempre começa pelo 0.
+
+Manipulando array:
+foreach - itera um array
+push - adiciona um item no final da array
+pop - retira um intem no final da array
+shift - remove no inicio da array
+unshift - adciona item no começo da array
+indexof - retorna o indice de um valor
 
 
 
